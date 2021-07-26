@@ -33,7 +33,7 @@ The candidates were:
   The winner of the election was:
   - **Diana DeGette**, who received **73.8%** of the vote and 272,892 number of votes.
   
-## Challenge Overview
+## Overview
 
 The purpose of this analysis is to provide the election commission additional data to complete the audit. 
 For this we, 
@@ -45,7 +45,7 @@ For this we,
 
 ![Election_Result](https://user-images.githubusercontent.com/78656720/110666374-499cf500-8197-11eb-88be-3a098a069332.png)
 
-## Challenge Summary
+## Summary
 
  The county rsults were:
  - county Jefferson registered "10.5%" of the vote and "38,855" number of votes.
@@ -53,7 +53,7 @@ For this we,
  - county Arapahoe registered "6.7%" of the vote and "24,801" number of votes.
  
    - The county with the largest turn out was:
-     - Denver, who registered "82.8%" of the vote and "306,055" number of votes.
+   - Denver, who registered "82.8%" of the vote and "306,055" number of votes.
   
 Looking at the above result the Election commission can undertake the election audit not only by looking at the winner but also by looking the different counties turnout rate. And this template can be used to other elections as well.
 
